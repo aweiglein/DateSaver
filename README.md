@@ -38,9 +38,10 @@ MySQL Driver: mysql-connector-java-8.0.23<br>
    * Reports can be viewed with the buttons in the top right corner.
 
 ### Reporting:
-1. Appointment count grouped by <b>type & month</b>
-2. Appointments grouped by <b>contact</b> (with appointment ID, title, type, description, start date/time, end date/time, customer ID)
-3. Appointments grouped by <b>customer</b> (with appointment ID, title, type, description, start date/time, end date/time, customer ID)
+1. Requirement: Appointment count grouped by <b>type & month</b>.
+2. Requirement: Appointments grouped by <b>contact</b> (with appointment ID, title, type, description, start date/time, end date/time, customer ID).
+3. My third report choice: A display of the appointment types as a pie chart.
+4. Additional report: Total successful and failed login attempts. 
 
 ### Lambda expressions:
 1. Found at [Util.DBConnection] Line: 75
