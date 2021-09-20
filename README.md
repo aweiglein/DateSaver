@@ -9,7 +9,7 @@ A desktop program used to maintain a MySQL database of customers and appointment
 Author: Alyssa Weiglein<br>
 Contact: aweigle@wgu.edu<br>
 Version: 2.0<br>
-Date: 07/05/2021<br>
+Date: 09/20/2021<br>
 
 ### Setting up the program:
 IDE: IntelliJ Community 2020.03<br>
