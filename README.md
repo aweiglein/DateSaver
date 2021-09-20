@@ -3,7 +3,7 @@ A desktop program used to maintain a MySQL database of customers and appointment
 
 <br><p align="center">
   <kbd>
-<img src="CaptureGif.gif" alt="ShedulingProgram" style="border:5px solid grey"></img>
+<img src="capture.gif" alt="ShedulingProgram" style="border:5px solid grey"></img>
   </kbd>
 </p><br>
 Author: Alyssa Weiglein<br>
