@@ -9,7 +9,8 @@
   <kbd>
 <img src="capture-2.gif" alt="DateSaver" style="border:5px solid grey"></img>
   </kbd>
-</p>
+</p><br>
+
 ### Setting up the program:
 IDE: IntelliJ Community 2020.03<br>
 JDK: Java SE 11.0.10<br>
