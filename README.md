@@ -13,6 +13,7 @@ JavaFX: JavaFX-SDK-11.0.2<br>
 MySQL Driver: mysql-connector-java-8.0.23<br>
 
 ### Navigating the program:
+On startup, the program will make a connection to the MySQL database where the customers and appointments data is stored. After a successful connection, the login screen will detect the users timezone and system language, and translate all error control labels to their language (English, Spanish, or French). The user then needs to enter a username and password to be validated.<br>
     * Menu buttons include: Appointments screen, Customers screen, and Reports screen. 
     * The user's current date and time (12hr & 24hr) is updated in real-time and displayed at the top right of the window.
     * The appointment/customer form can be used to make a new record or update an exisiting one.
