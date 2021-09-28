@@ -5,7 +5,11 @@
  Contact: aweigle@wgu.edu<br>
  Version: 2.0<br>
  Date: 07/30/2021<br>
-
+<p align="center">
+  <kbd>
+<img src="capture-2.gif" alt="DateSaver" style="border:5px solid grey"></img>
+  </kbd>
+</p>
 ### Setting up the program:
 IDE: IntelliJ Community 2020.03<br>
 JDK: Java SE 11.0.10<br>
