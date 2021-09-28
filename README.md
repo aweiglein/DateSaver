@@ -22,8 +22,8 @@ On startup, the program will make a connection to the MySQL database where the c
 ### Running the program:
 1. On startup, the program will make a connection to the MySQL database where the customers and appointments data is stored. After a successful connection, the login screen will detect the users timezone and system language, and translate all error control labels to their language (English, Spanish, or French). The user then needs to enter a username and password to be validated.<br>
     Username | Password
-    --------------------
-    `test` | `test`
+    ---------|----------
+    `test`  | `test`
     `admin` | `admin`
 
 2. The 'appointment' menu button will take the user to the <ins>APPOINTMENT SCREEN</ins> where appointments can be created, modified, or deleted.
