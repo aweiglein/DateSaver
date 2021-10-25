@@ -7,7 +7,7 @@
  Date: 07/30/2021<br>
 <p align="center">
   <kbd>
-<img src="capture-2.gif" alt="DateSaver" style="border:5px solid grey"></img>
+<img src="GIF.gif" alt="DateSaver" style="border:5px solid grey"></img>
   </kbd>
 </p><br>
 
